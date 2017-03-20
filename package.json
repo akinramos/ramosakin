@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/daquipabrylle/daquipab.git"
+    "url": "https://github.com/akinramos/ramosakin.git"
   },
   "keywords": [],
   "author": "Akin Lou",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/daquipabrylle/daquipab/issues"
+    "url": "https://github.com/akinramos/ramosakin/issues"
   },
-  "homepage": "https://github.com/daquipabrylle/daquipai#readme",
+  "homepage": "https://github.com/akinramos#readme",
   "dependencies": {
     "express": "^4.14.1"
   },
